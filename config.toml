@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+title = "Lotfi Raïs"
+theme = "researcher"
+enableEmoji = true
+
+[params]
+  author = "Olivier Roques"
+  description = "A simple monospaced resume theme for Hugo."
+  favicon = "favicon.png"  # path to a .ico to use as favicon
+  [params.footer]
+    text = "Portfolio créé en Hugo par Lotfi Raïs"
+    url = "https://gohugo.io/"
+
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url = "/accueil"
+    weight = 1
+  [[menu.main]]
+    name = "CV en PDF"
+    url = "/cv.pdf"
+    weight = 2
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true
