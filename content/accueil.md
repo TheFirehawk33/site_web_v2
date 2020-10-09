@@ -14,10 +14,10 @@ J'ai été passionné par l'informatique et ses mystères, depuis le premier ord
 
 ### Automobile 🏎️
 
-Ma passion de l'automobile vient de mon plus jeune âge, mes parents me racontent que même avant de savoir parler je reproduisait les sons des voitures en jouant. Au fil, des anniversaires et autres fêtes, j'ai accumulé les voitures de collection j'en possède aujourd'hui plus de 200. Je suis toujours à l'affût des nouvelles annonces/sorties.
+Ma passion de l'automobile vient de mon plus jeune âge, mes parents me racontent que même avant de savoir parler je reproduisait les sons des voitures en jouant. Au fil des anniversaires et autres fêtes, j'ai accumulé les voitures miniatures, j'en possède plus de 200. Aujourd'hui, je plutôt intéressé par les voitures taille réelle, Je possède actuellement une Peugeot 407 pour la semaine et une Renault 16 de 1973 pour les ballades le week-end.
 
 ### Musique 🎸
 
-J'ai commencé à m'intéresser à la musique au début de mes années de collège, à cette époque je commençais à découvrir le Rock et le Métal, l'envie d'apprendre à jouer d'un instrument grandissait. Un de mes amis de l'époque jouait déjà de la batterie, c'est ainsi que mon choix s'est tourné vers la guitare. En Mars 2013, je commençait donc apprendre grâce à des tutoriels sur Internet, cela fait maintenant plus de 7 ans que je pratique la guitare en autodidacte. En même temps, j'ai aussi appris le Ukulélé et la Basse.
+J'ai commencé à m'intéresser à la musique au début de mes années de collège, à cette époque je commençais à découvrir le Rock et le Métal, l'envie d'apprendre à jouer d'un instrument grandissait. Un de mes amis de l'époque jouait déjà de la batterie, c'est ainsi que mon choix s'est tourné vers la guitare. En Mars 2013, je commençait donc apprendre grâce à des tutoriels sur Internet, cela fait maintenant plus de 7 ans que je pratique la guitare en autodidacte. En même temps, j'ai aussi appris la Basse et le Ukulélé.
 
 <br />

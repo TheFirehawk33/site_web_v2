@@ -16,5 +16,6 @@ Vous pouvez me contacter par e-mail...
 
 * [Facebook](https://www.facebook.com/lotfi.rais05)
 * [Twitter](https://twitter.com/lotfihihi)
+* [LinkedIn](https://www.linkedin.com/in/lotfi-ra%C3%AFs-539b15194/)
 
 <br />
